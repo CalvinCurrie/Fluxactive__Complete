@@ -1,0 +1,17 @@
+h1, p {
+    color: white;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.special__title {
+    font-size: 24px;
+    text-decoration: underline;
+    margin: 50px;
+}
+
+.showcase--para {
+    font-size: 18px;
+}
